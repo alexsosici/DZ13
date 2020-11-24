@@ -1,0 +1,1 @@
+{'first_name': 'Alex', 'last_name': 'Sosic', 'height_cm': 195.0, 'weight_kg': 95.0, 'goals': 100, 'y_cards': 1, 'r_cards': 0}
